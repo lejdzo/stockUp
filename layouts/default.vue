@@ -1,0 +1,7 @@
+<template>
+    dfsfsdfsdf
+
+
+    <slot />
+    
+</template>
